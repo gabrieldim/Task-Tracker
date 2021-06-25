@@ -1,4 +1,4 @@
-# Task Tracker made using only React.
+## Task Tracker made using only React.
 
 This application is designed to better organize your life by planning the activities you do every day. </br>
 
