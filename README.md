@@ -2,7 +2,7 @@
 
 This application is designed to better organize your life by planning the activities you do every day. </br>
 
-<i> Do not be lazy, add some tasks </i>
+<i> Don't be lazy, add some tasks </i>
 </br>
 - You can add tasks.
 - You can delete tasks.
