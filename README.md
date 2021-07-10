@@ -4,9 +4,10 @@ This application is designed to better organize your life by planning the activi
 
 <i> Don't be lazy, add some tasks </i> 😉
 </br>
-- You can add tasks.
-- You can delete tasks.
-- You can put a reminder.
-- You can delete a reminder for a task.
+You can:
+- Add tasks.
+- Delete tasks.
+- Put a reminder.
+- Delete a reminder for a task.
 </br>
 Try it here: https://task-tracker-gabrieldim.netlify.app/
