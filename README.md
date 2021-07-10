@@ -4,6 +4,7 @@ This application is designed to better organize your life by planning the activi
 
 <i> Don't be lazy, add some tasks </i> 😉
 </br>
+</br>
 You can:
 - Add tasks.
 - Delete tasks.
