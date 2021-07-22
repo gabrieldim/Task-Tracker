@@ -12,3 +12,7 @@ You can:
 - Delete a reminder for a task.
 </br>
 Try it here: https://task-tracker-gabrieldim.netlify.app/
+</br>
+</br>
+
+> Inspired by: [Brad Traversy](https://github.com/bradtraversy)
